@@ -17,7 +17,7 @@ vetor, Fator, lista, data frame, matriz
 10. Revisar estrutura de repetição e seleção
 while e do while, for, if else 
 11. Revisão de criação de função
-12. Apply (utilizar)
+12. Subset
 13. Criação de gráficos
 14. Criação de gráficos a partir de dados fornecidos 
 *o que é feito na ic, por exemplo, com os dados do IBGE*
