@@ -21,3 +21,6 @@ while e do while, for, if else
 13. Criação de gráficos
 14. Criação de gráficos a partir de dados fornecidos 
 *o que é feito na ic, por exemplo, com os dados do IBGE*
+15. Referências
+minicurso do gov, playlist do youtube: https://www.youtube.com/watch?v=tfPsmDzS74c&list=PLyqOvdQmGdTQ5dE6hSD7ZGBu8bud70wYf
+
